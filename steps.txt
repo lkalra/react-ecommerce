@@ -1,0 +1,9 @@
+1. open node cmd 
+2. to change dir from c to d type d:
+3. npx create-react-app react-ecommerce --template redux - initialised react with redux
+4. to create a folder for project - mkdir _folderName
+5. to enter in the same folder - cd _folderName
+6. to create a new file - touch _fileName
+
+
+st
