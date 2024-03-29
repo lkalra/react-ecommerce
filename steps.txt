@@ -5,5 +5,4 @@
 5. to enter in the same folder - cd _folderName
 6. to create a new file - touch _fileName
 
-
-st
+installed tailwind and inialised
